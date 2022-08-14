@@ -9,7 +9,11 @@ Add the CSS Stylesheet and Javascript to your header
 ```
 
 **jQuery** is required.
+# Example
+https://rampagellc.github.io/Snackbar-Alerts/example/
+
 # Documentation
+
 ## Usage Example
 ```html
 <!DOCTYPE html>
