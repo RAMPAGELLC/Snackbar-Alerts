@@ -67,7 +67,7 @@ Message background color. Valid options are:
         "black": "#0a0a0a",
         "grey": "#2e2e2e",
         "danger": "#ff2b2b"
-};
+}
 ```
 
 #### ButtonTextColor: String
@@ -78,7 +78,7 @@ Button text color. Valid options are:
         "black": "#0a0a0a",
         "grey": "#2e2e2e",
         "blue": "#4287f5",
-};
+}
 ```
 
 #### CustomStyle: String
